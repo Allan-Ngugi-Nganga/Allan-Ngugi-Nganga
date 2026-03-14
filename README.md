@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Allan 👋 
 
-<!--
-**Allan-Ngugi-Nganga/Allan-Ngugi-Nganga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend & DevOps Strategist
+**Passionate about robust architectures and automation. Turning coffee into clean, deployment-ready code.**
 
-Here are some ideas to get you started:
+I am a Full-Stack Developer and strategist focused on building scalable, efficient systems. I bridge the gap between complex business logic and reliable infrastructure, ensuring that every line of code is built to perform and stay live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Do
+* **Architecting Systems:** Designing backend structures that prioritize security and scalability.
+* **Automating Excellence:** Implementing DevOps workflows to streamline deployment and minimize friction.
+* **Full-Stack Problem Solving:** Taking ideas from initial concept to a fully realized, production-ready environment.
+
+### Let's Connect
+
+* **Email:** [maverick.develops@gmail.com](mailto:maverick.develops@gmail.com)
+
+*"Simplicity is the soul of efficiency."*
